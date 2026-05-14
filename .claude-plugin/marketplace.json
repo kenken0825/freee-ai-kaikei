@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "freee-ai-kaikei",
+  "description": "freee × AI 会計プラグイン集",
+  "owner": {
+    "name": "けんけん"
+  },
+  "plugins": [
+    {
+      "name": "freee-ai-kaikei",
+      "description": "freee × AI 会計プラグイン。CSV仕訳・レシートOCR・freee登録・税務リスクチェック・Memory設定・月次チェックリスト生成をサポート。",
+      "author": {
+        "name": "けんけん"
+      },
+      "category": "productivity",
+      "source": "./plugin"
+    }
+  ]
+}

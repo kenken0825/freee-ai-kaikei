@@ -1,0 +1,9 @@
+{
+  "name": "freee-ai-kaikei",
+  "version": "1.0.0",
+  "description": "freee × AI 会計プラグイン。CSV仕訳・レシートOCR・freee登録・税務リスクチェック・Memory設定・月次チェックリスト生成をサポート。",
+  "author": {
+    "name": "けんけん"
+  },
+  "keywords": ["freee", "kaikei", "accounting", "japan"]
+}
